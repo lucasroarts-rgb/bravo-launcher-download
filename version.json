@@ -1,8 +1,8 @@
 {
-  "versionCode": 71,
-  "versionName": "0.9.11",
-  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.11.apk",
-  "sha256": "bcf0ebbc98b1ee9a899aefb4740b217042b12979b35529cd1fafc453d04f9caa",
-  "size": 1463127,
-  "notes": "Avanço e correção de mistura lidos do jeito certo pra ECU do Bravo. Tela de estacionado, SAÚDE na linha de cima, teste de carga, modo estrada com marcha e autonomia. TROCA some na 5ª."
+  "versionCode": 73,
+  "versionName": "0.9.12",
+  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.12.apk",
+  "sha256": "66cf67bdbf278e3f7acb3a629a990d064661397bd3c84adfa5a6e5c563aea451",
+  "size": 1466311,
+  "notes": "Tela de estacionado diz por que a viagem gastou mais e lembra de registrar o abastecimento. Mistura medida em cruzeiro quente. Modo seguro não liga mais quando a central reabre o launcher sozinha. Inclui tudo da 0.9.11."
 }
