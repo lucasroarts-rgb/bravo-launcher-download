@@ -1,8 +1,8 @@
 {
-  "versionCode": 69,
-  "versionName": "0.9.10",
-  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.10.apk",
-  "sha256": "226554e93b8e86e5087a2c71428614788a469e4bcc5af322dc3e93fdd67ef1c9",
-  "size": 1445827,
-  "notes": "Modo HUD em Ajustes > OBD2: o ELM327 só escuta o que a ECU responde pro HUD no cabo Y. Pela placa precisa do firmware 10. Resumo de viagem leva também placa, luzes, ShiftPower e CarPlay."
+  "versionCode": 71,
+  "versionName": "0.9.11",
+  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.11.apk",
+  "sha256": "bcf0ebbc98b1ee9a899aefb4740b217042b12979b35529cd1fafc453d04f9caa",
+  "size": 1463127,
+  "notes": "Avanço e correção de mistura lidos do jeito certo pra ECU do Bravo. Tela de estacionado, SAÚDE na linha de cima, teste de carga, modo estrada com marcha e autonomia. TROCA some na 5ª."
 }

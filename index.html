@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="#050506">
   <meta name="robots" content="noindex, nofollow">
-  <title>Bravo Launcher 0.9.10, download</title>
+  <title>Bravo Launcher 0.9.11, download</title>
   <meta name="description" content="Baixe o Bravo Launcher para a central multimídia Android do Fiat Bravo.">
   <link rel="stylesheet" href="assets/site.css">
   <link rel="icon" href="assets/icon-192.png" type="image/png">
@@ -14,20 +14,20 @@
   <div class="progress" aria-hidden="true"></div>
   <header class="nav">
     <a class="brand" href="#top" aria-label="Bravo Ghost"><img src="assets/bravo-ghost-wordmark.webp" alt="Bravo Ghost" width="160" height="33"></a>
-    <a class="nav-download" href="Bravo-Launcher-v0.9.10.apk" download>BAIXAR APK</a>
+    <a class="nav-download" href="Bravo-Launcher-v0.9.11.apk" download>BAIXAR APK</a>
   </header>
 
   <main id="top">
     <section class="hero">
       <div class="hero-copy" data-reveal>
-        <p class="eyebrow">VERSÃO 0.9.10 · BRAVO GHOST</p>
+        <p class="eyebrow">VERSÃO 0.9.11 · BRAVO GHOST</p>
         <h1>O COCKPIT DO<br><em>SEU FIAT BRAVO.</em></h1>
         <p class="lead">O Bravo Sporting branco no centro da tela, velocidade pelo GPS, motor, bateria e giro pelo ELM327, música com capa e controles, e clima no canto.</p>
         <div class="actions">
-          <a class="button primary" href="Bravo-Launcher-v0.9.10.apk" download>BAIXAR VERSÃO 0.9.10</a>
+          <a class="button primary" href="Bravo-Launcher-v0.9.11.apk" download>BAIXAR VERSÃO 0.9.11</a>
           <a class="button ghost" href="#instalar">COMO INSTALAR</a>
         </div>
-        <p class="meta">Android 8 ou superior · 1412 KB · instala por cima da versão anterior sem perder os ajustes</p>
+        <p class="meta">Android 8 ou superior · 1429 KB · instala por cima da versão anterior sem perder os ajustes</p>
       </div>
 
     </section>
@@ -41,78 +41,16 @@
 
     <section class="feature" data-reveal>
       <div>
-        <p class="eyebrow">NOVO NA 0.9.10</p>
-        <h2>OBD E HUD JUNTOS NO CABO Y</h2>
-        <p>Com o modo HUD ligado o ELM327 não pergunta nada pra ECU, só escuta as respostas que ela dá pro HUD.</p>
+        <p class="eyebrow">NOVO NA 0.9.11</p>
+        <h2>LEITURAS CERTAS E SAÚDE NUM OLHAR</h2>
+        <p>Avanço e correção de mistura agora são lidos do jeito que a ECU do Bravo manda. Antes saíam números errados.</p>
         <ul>
-          <li>Ajustes > OBD2 > MODO HUD (SÓ ESCUTAR). Mostra o que o HUD pedir (giro, velocidade, motor) e a bateria pelo adaptador</li>
-          <li>Nesse modo os códigos de falha não são lidos. Pra ler, desliga o modo HUD</li>
-          <li>Pela placa precisa do firmware 10 (gravado em 20/11). Sem ele o OBD lê normal</li>
-          <li>O resumo de cada viagem leva também as linhas da placa, luzes, ShiftPower e CarPlay</li>
-          <li>ATUALIZAR no app confere esta página, o PC de casa e o site antigo, e fica com a versão mais nova</li>
-          <li>Depois que a central liga, a placa espera 5 s antes de abrir o ELM327, pro HUD e o adaptador acordarem</li>
-          <li>Se abrir o ELM327 pela placa travar 45 s, o launcher reinicia a placa sozinho. Não precisa mais tirar o cabo</li>
-          <li>Central ligando e desligando seguido na partida não deixa mais duas aberturas brigando pela placa</li>
-          <li>ATUALIZAR no app procura também este PC (WiFi de casa ou hotspot do PC), não só o site</li>
-          <li>Na 0.9.7: luzes, ShiftPower e CarPlay mais firmes</li>
-          <li>Farol troca na hora mesmo andando: as milhas longe da placa vão pro fim da fila e não seguram mais o farol por quase 2 minutos</li>
-          <li>Milha que não respondeu não tenta de novo na mesma hora (cada tentativa travava a placa uns 25 s)</li>
-          <li>Placa não é mais reiniciada quando o OBD cai por causa de uma luz. Era isso que derrubava o ShiftPower e cancelava as outras lâmpadas</li>
-          <li>Se a placa reiniciar, as luzes pedidas esperam ela voltar em vez de falhar</li>
-          <li>ShiftPower ligado mas mudo: com o pedal mexendo e 45 s sem dado, o launcher liga de novo sozinho</li>
-          <li>Leitura de música: se o Android não religar o serviço, o launcher desliga e liga o serviço ele mesmo (no início do CarPlay, no botão e a cada minuto)</li>
-          <li>CarPlay + Bravo: troca de layout espera a imagem firmar antes de parar o vídeo, pausa maior depois de várias trocas seguidas e no DE NOVO, e sem segundo pedido de vídeo quando aberto pelo botão</li>
-          <li>Placa no firmware 9: a escrita na lâmpada não trava mais a placa. Link fraco cai em 2 s em vez de 25 s e o ELM327 tem mais folga no rádio
-          <li>Na 0.9.6: modo estrada, consumo por modo do ShiftPower, aviso de avanço, gráficos semanais e luzes automáticas</li>
-          <li>Modo estrada: acima de 80 km/h a tela mostra só velocidade, giro, motor e modo, bem grandes. MODO NORMAL embaixo volta na hora, mesmo andando</li>
-          <li>MODO ESTRADA no chip de cima quando o carro anda, pra entrar a qualquer velocidade. O automático liga e desliga em Ajustes &gt; Avisos</li>
-          <li>Tempo, km e consumo em cada modo do ShiftPower por viagem, no resumo e no relatório</li>
-          <li>Avanço de ignição em carga: queda forte acima de 4000 rpm vira aviso na tela e linha no relatório</li>
-          <li>Ar da admissão: quanto sobe parado no trânsito e quanto tempo leva pra voltar</li>
-          <li>Saúde do motor: gráfico semanal das correções de combustível e da bateria descansada e na partida</li>
-          <li>LUZES &gt; AUTOMÁTICO: milha amarela com previsão de chuva, farol no pôr do sol e acender suave ao ligar o motor, cada um com chave</li>
-          <li>Resumo ao desligar fica 10 s e mostra giro máximo, motor máximo e tempo por modo</li>
-          <li>Botões da tela inicial aceitam toque mais longe andando</li>
-          <li>Barra fina na cor do modo do ShiftPower na borda de baixo, e a barra de giro na cor do modo</li>
-          <li>Medidor de 5 barras do Eco ao Race no chip de cima e no aviso grande quando o modo muda</li>
-          <li>Toque longo no ícone de luz liga ou desliga farol e milha sem abrir LUZES, com aviso tipo FAROL · AMARELO 70%</li>
-          <li>Farol e milha acesos no desenho do carro na cor escolhida, com o brilho de LUZES</li>
-          <li>Lâmpada que não respondeu aparece com anel laranja e ! no ícone</li>
-          <li>Farol e milha separados por lado: ESQUERDO, DIREITO ou AMBOS</li>
-          <li>ShiftPower sem OFF no aprender e sem confundir o quadro de status com o modo. Refazer com APAGAR MAPA</li>
-          <li>Chip de cima não fica mais por cima do texto do OBD nos layouts de linha fina</li>
-          <li>Lâmpadas QStar (app Drive Light) nas LUZES: liga, desliga, branco/amarelo e brilho, com a senha do app. Precisa da placa com firmware 6</li>
-          <li>ShiftPower pela placa não cai mais em laço de reconexão (antes um segundo toque derrubava a conexão a cada 10 s)</li>
-          <li>Quando o OBD pela placa falha duas vezes seguidas, o launcher reinicia a placa pelo USB, igual tirar e pôr o cabo. Busca de luzes não derruba mais o OBD</li>
-          <li>PISCAR das luzes fica piscando até tocar em PARAR (no máximo 60 s), pra ver na frente do carro</li>
-          <li>Corrige a tela preta do CarPlay depois de trocar de layout, de tela cheia pra metade ou voltar do CPLink: a central ganha um intervalo antes de mudar a imagem de lugar</li>
-          <li>Hodômetro aprende com o km do painel digitado em cada ABASTECI: soma os abastecimentos até juntar 300 km e corrige a diferença. Depois de salvar, aparece quanto falta</li>
-          <li>FAIXA: CarPlay em cima, giro e temperatura do motor numa faixa embaixo</li>
-          <li>TRÊS COLUNAS: velocidade e consumo na esquerda, CarPlay no meio, giro, motor e bateria na direita</li>
-          <li>AUTOMÁTICO: parado mostra o painel, andando aumenta o CarPlay, giro alto mostra o conta-giros. Só troca depois de 4 s firme e no máximo a cada 20 s</li>
-          <li>Temperatura do motor em todos os layouts, laranja acima de 105 °C e vermelha acima de 112 °C</li>
-          <li>Viagem registra o combustível do tanque (último ABASTECI), pra comparar gasolina e etanol no PC</li>
-          <li>Relatórios e viagens chegam no PC com as linhas certas (antes vinham numa linha só)</li>
-          <li>Diagnóstico lista o que o serviço de CarPlay da central oferece, e a leitura de música religa sozinha quando o CarPlay entra</li>
-          <li>Botão LAYOUT troca entre PAINEL, ESPELHADO, GIRO, CARPLAY GRANDE, FAIXA, TRÊS COLUNAS e AUTOMÁTICO</li>
-          <li>Voltar da tela cheia pra metade não deixa mais o CarPlay preto</li>
-          <li>Busca do ShiftPower pela placa lista aparelho sem nome e diz o motivo quando não acha (precisa do firmware 5 na placa)</li>
-          <li>Atualização pelo app: quando falha, diz o motivo (sem internet, servidor, certificado, arquivo) e mostra BAIXAR PELO NAVEGADOR</li>
-          <li>Som Bravo+: botão TESTAR NO SOM REAL toca um tom curto e mede se equalizador, graves, ganho e volume pela velocidade mudam o som de verdade</li>
-          <li>Controle que não muda o som fica apagado e marcado, e o teste diz se a música do CarPlay passa pelo Android ou vai direto pro amplificador</li>
-          <li>CarPlay + Bravo: quando o iPhone entra no CarPlay, a tela abre com o CarPlay na esquerda e velocidade, giro, motor, consumo e bateria na direita. Se a central recusar, aparece o motivo e o CPLink abre normal</li>
-          <li>O aviso de Bluetooth desligado não aparece mais quando o OBD vai pela placa ESP32</li>
-          <li>A placa ESP32 no USB não abre mais o CPLink sozinha</li>
-          <li>LUZES diz o motivo real quando a busca pela placa não acha a lâmpada (firmware, nada escutado, luz presa no app do celular)</li>
-          <li>Corrige o travamento ao passar do Ghost Plate pro Viagem com aviso de chuva na tela</li>
-          <li>BATERIA usa a tensão medida no ELM327 quando a injeção não manda, igual o HUD</li>
-          <li>Relatório automático quando o Bluetooth do iPhone cai, quando o HUD entra no cabo, quando o OBD perde a conexão e quando o iPhone entra no USB</li>
-          <li>O carro desenhado na tela acende farol e milha na cor escolhida em LUZES, em todos os layouts com o carro</li>
-          <li>Com a placa ESP32 no USB, o OBD vai pelo Bluetooth da placa e o da central fica só pro iPhone</li>
-          <li>Hodômetro conta com o mesmo sinal do painel e aprende a diferença cada vez que você digita o km do painel</li>
-          <li>Caixa-preta: grava os dados do carro a cada segundo na viagem, sem localização, e o PC puxa pelo WiFi de casa</li>
-          <li>Menos relatórios automáticos por dia, pra caber no limite de envio</li>
-          <li>Pronto pra placa ESP32 no USB: luzes e leitura do ShiftPower pela placa</li>
+          <li>SAÚDE na linha de cima: bateria, mistura, temperatura e injeção em 4 bolinhas. Toque abre Saúde do motor</li>
+          <li>Tela de estacionado com a última viagem, bateria em repouso e a última puxada</li>
+          <li>Teste de carga: cada puxada com o pé embaixo fica gravada com o avanço por giro</li>
+          <li>Modo estrada mostra marcha, velocidade, motor e autonomia</li>
+          <li>TROCA não aparece mais na 5ª. Viagem impossível ou sem data certa fica marcada</li>
+          <li>Na 0.9.10: modo HUD (só escutar) em Ajustes > OBD2 pro cabo Y, e placa que trava reinicia sozinha</li>
         </ul>
       </div>
     </section>
@@ -128,12 +66,12 @@
         <li><span>04</span><p>Toque na faixa de música e libere o Bravo Launcher no acesso às notificações.</p></li>
         <li><span>05</span><p>Pressione Home e escolha Bravo Launcher como tela inicial, sempre.</p></li>
       </ol>
-      <a class="button primary wide" href="Bravo-Launcher-v0.9.10.apk" download>BAIXAR O APK AGORA</a>
+      <a class="button primary wide" href="Bravo-Launcher-v0.9.11.apk" download>BAIXAR O APK AGORA</a>
     </section>
   </main>
 
   <footer>
-    <p>Bravo Launcher 0.9.10 · protótipo independente para uso particular.</p>
+    <p>Bravo Launcher 0.9.11 · protótipo independente para uso particular.</p>
     <p>Não substitui o painel original nem os alertas de segurança do veículo.</p>
   </footer>
 
