@@ -1,8 +1,8 @@
 {
-  "versionCode": 67,
-  "versionName": "0.9.9",
-  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.9.apk",
-  "sha256": "fe059ae865c8dd530fe1fbe0924c3fef4938785a36d08e062aa0c2b15cb314d6",
-  "size": 1442131,
-  "notes": "Atualização direto pelo app de qualquer lugar (página no GitHub). OBD pela placa espera 5 s depois de ligar e reinicia a placa sozinho se travar abrindo o ELM327."
+  "versionCode": 69,
+  "versionName": "0.9.10",
+  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.10.apk",
+  "sha256": "226554e93b8e86e5087a2c71428614788a469e4bcc5af322dc3e93fdd67ef1c9",
+  "size": 1445827,
+  "notes": "Modo HUD em Ajustes > OBD2: o ELM327 só escuta o que a ECU responde pro HUD no cabo Y. Pela placa precisa do firmware 10. Resumo de viagem leva também placa, luzes, ShiftPower e CarPlay."
 }
