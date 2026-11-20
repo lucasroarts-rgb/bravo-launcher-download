@@ -1,0 +1,8 @@
+{
+  "versionCode": 67,
+  "versionName": "0.9.9",
+  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.9.apk",
+  "sha256": "fe059ae865c8dd530fe1fbe0924c3fef4938785a36d08e062aa0c2b15cb314d6",
+  "size": 1442131,
+  "notes": "Atualização direto pelo app de qualquer lugar (página no GitHub). OBD pela placa espera 5 s depois de ligar e reinicia a placa sozinho se travar abrindo o ELM327."
+}
