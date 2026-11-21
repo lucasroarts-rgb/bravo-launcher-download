@@ -1,8 +1,8 @@
 {
-  "versionCode": 85,
-  "versionName": "0.9.18",
-  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.18.apk",
-  "sha256": "0aa136cc77976cc3c323da4a88c7f1c0769c2bfe3600e8375b8b131c38a59871",
-  "size": 7870395,
-  "notes": "Dez layouts novos de painel (analógico 80, LCD verde, arco de pista, trapézio e outros) e o Ghost Plate com o fantasma novo. Inclui o HUD automático da 0.9.17."
+  "versionCode": 87,
+  "versionName": "0.9.19",
+  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.19.apk",
+  "sha256": "89d131335ed44b956a22d404201f3068fcbee3a7f0915a545c9ae9067e127e7a",
+  "size": 7854571,
+  "notes": "Quatro layouts Cockpit (Duplo, Música, Bravo e Rota) e a AURA: as barras de LED dos pés seguem o ShiftPower ou ficam na cor que você escolher. Saíram os layouts que não ficaram bons."
 }
