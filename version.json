@@ -1,8 +1,8 @@
 {
-  "versionCode": 95,
-  "versionName": "0.9.23",
-  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.23.apk",
-  "sha256": "0861d70bd9dd0ba117c17cda0bb73b82a25e1f0cb9fdd8672afccffaa904255d",
-  "size": 7863459,
-  "notes": "Rotação de troca própria para cada modo do ShiftPower, em Avisos. A ventoinha agora aparece no diagnóstico: em que temperatura ligou e desligou."
+  "versionCode": 97,
+  "versionName": "0.9.24",
+  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.24.apk",
+  "sha256": "b435d7f570d08044089fc8514a614862bc2477a644595fff200866f1b852f418",
+  "size": 7865787,
+  "notes": "O chip do ShiftPower sugere um modo pelo seu jeito de dirigir (SUGERE S). Só sugere: o modo continua mudando pelo botão do módulo."
 }
