@@ -1,8 +1,8 @@
 {
-  "versionCode": 91,
-  "versionName": "0.9.21",
-  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.21.apk",
-  "sha256": "5409291380c20ebc93b02d3483098cce24cc7ccde866a402f89430c46f6f0be0",
-  "size": 7858655,
-  "notes": "Cockpit Duplo abre sozinho no modo Race. A tela de aquecimento diz quanto falta, e o resumo da viagem mostra o tempo parado com motor ligado e quanto o motor levou pra aquecer. Cada partida vai pro diagnóstico com a tensão da bateria."
+  "versionCode": 93,
+  "versionName": "0.9.22",
+  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.22.apk",
+  "sha256": "370d8ce8deb8e375ea9d1521120f8dadce63411874872f61c574ac9d80bd4118",
+  "size": 7861635,
+  "notes": "O diagnóstico agora mede a sonda lambda em cruzeiro com o motor quente e manda um resumo da semana: km, consumo estimado, tempo parado ligado, aquecimento e bateria."
 }
