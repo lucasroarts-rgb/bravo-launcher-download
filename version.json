@@ -1,8 +1,8 @@
 {
-  "versionCode": 93,
-  "versionName": "0.9.22",
-  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.22.apk",
-  "sha256": "370d8ce8deb8e375ea9d1521120f8dadce63411874872f61c574ac9d80bd4118",
-  "size": 7861635,
-  "notes": "O diagnóstico agora mede a sonda lambda em cruzeiro com o motor quente e manda um resumo da semana: km, consumo estimado, tempo parado ligado, aquecimento e bateria."
+  "versionCode": 95,
+  "versionName": "0.9.23",
+  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.23.apk",
+  "sha256": "0861d70bd9dd0ba117c17cda0bb73b82a25e1f0cb9fdd8672afccffaa904255d",
+  "size": 7863459,
+  "notes": "Rotação de troca própria para cada modo do ShiftPower, em Avisos. A ventoinha agora aparece no diagnóstico: em que temperatura ligou e desligou."
 }
