@@ -1,8 +1,8 @@
 {
-  "versionCode": 77,
-  "versionName": "0.9.14",
-  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.14.apk",
-  "sha256": "c83d5739a833907ff8f2a0e57c6da843d78974c5aafbd236acdaedbdfd8efe02",
-  "size": 7833903,
-  "notes": "Comando de voz (toque em VOZ), correção do fechamento na tela LUZES, placa travada reinicia sozinha, cards do modo HUD mostram o que o HUD lê. Inclui tudo da 0.9.13."
+  "versionCode": 79,
+  "versionName": "0.9.15",
+  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.15.apk",
+  "sha256": "a8fd12a57c2db9a417dd9e651811d1b84bb13dd5e942d018b96fd4f538554856",
+  "size": 7836323,
+  "notes": "Diga \"Bravo, ativar\" com a tela inicial aberta e fale o comando. Inclui tudo da 0.9.14 (comando de voz, correção do LUZES, placa reinicia sozinha, cards do modo HUD)."
 }
