@@ -1,0 +1,1 @@
+vosk-model-small-pt-0.3.zip: Vosk small Portuguese model 0.3 by Alpha Cephei (https://alphacephei.com/vosk/models), Apache License 2.0. Unchanged copy, sha256 6e1ce909032e1afa7a88e68a3d628ecafff302bdf195befab308826c395e93b7.
