@@ -1,8 +1,8 @@
 {
-  "versionCode": 81,
-  "versionName": "0.9.16",
-  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.16.apk",
-  "sha256": "ddb82c8bd7718351f4bfb31d72462f25f7739a100a3d8fa002db5c9f489e9719",
-  "size": 7840083,
-  "notes": "Pergunta pro Claude falando: diga \"Bravo, pergunta\" e fale. FALAR na tela CLAUDE agora usa a voz offline. A resposta é lida em voz alta se a central tiver motor de fala em português. Inclui tudo da 0.9.15."
+  "versionCode": 83,
+  "versionName": "0.9.17",
+  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.17.apk",
+  "sha256": "91ce2eb62f8cc44c9aa15093a3cab0951810848d72374e92b17643d479937da3",
+  "size": 7843239,
+  "notes": "HUD no cabo Y: o modo HUD liga sozinho quando ouve o HUD e o launcher pede nas brechas o que o HUD não pede. Inclui a pergunta pro Claude por voz da 0.9.16."
 }
