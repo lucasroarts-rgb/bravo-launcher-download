@@ -1,8 +1,8 @@
 {
-  "versionCode": 83,
-  "versionName": "0.9.17",
-  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.17.apk",
-  "sha256": "91ce2eb62f8cc44c9aa15093a3cab0951810848d72374e92b17643d479937da3",
-  "size": 7843239,
-  "notes": "HUD no cabo Y: o modo HUD liga sozinho quando ouve o HUD e o launcher pede nas brechas o que o HUD não pede. Inclui a pergunta pro Claude por voz da 0.9.16."
+  "versionCode": 85,
+  "versionName": "0.9.18",
+  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.18.apk",
+  "sha256": "0aa136cc77976cc3c323da4a88c7f1c0769c2bfe3600e8375b8b131c38a59871",
+  "size": 7870395,
+  "notes": "Dez layouts novos de painel (analógico 80, LCD verde, arco de pista, trapézio e outros) e o Ghost Plate com o fantasma novo. Inclui o HUD automático da 0.9.17."
 }
