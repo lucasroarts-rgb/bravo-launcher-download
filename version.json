@@ -1,8 +1,8 @@
 {
-  "versionCode": 75,
-  "versionName": "0.9.13",
-  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.13.apk",
-  "sha256": "cb231db0f4e0a78a3264b5045cf16edd0185b8f03bd69d01cdb4a5d98d8a8293",
-  "size": 1477183,
-  "notes": "OFICINA com testes guiados (conexão do OBD, alternador, ventoinha, ar falso), tela de aquecimento com o motor frio, milha fraca espera o carro parar. Inclui tudo da 0.9.11 e 0.9.12."
+  "versionCode": 77,
+  "versionName": "0.9.14",
+  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.14.apk",
+  "sha256": "c83d5739a833907ff8f2a0e57c6da843d78974c5aafbd236acdaedbdfd8efe02",
+  "size": 7833903,
+  "notes": "Comando de voz (toque em VOZ), correção do fechamento na tela LUZES, placa travada reinicia sozinha, cards do modo HUD mostram o que o HUD lê. Inclui tudo da 0.9.13."
 }
