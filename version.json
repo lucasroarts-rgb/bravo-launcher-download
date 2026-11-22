@@ -1,8 +1,8 @@
 {
-  "versionCode": 97,
-  "versionName": "0.9.24",
-  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.24.apk",
-  "sha256": "b435d7f570d08044089fc8514a614862bc2477a644595fff200866f1b852f418",
-  "size": 7865787,
-  "notes": "O chip do ShiftPower sugere um modo pelo seu jeito de dirigir (SUGERE S). Só sugere: o modo continua mudando pelo botão do módulo."
+  "versionCode": 99,
+  "versionName": "0.9.25",
+  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.25.apk",
+  "sha256": "55d24363bd8012756274404ceef2190e5a534f61a99ad372bc3119a964eb9758",
+  "size": 7874271,
+  "notes": "Correções do teste de 21/11: a placa das luzes volta sozinha, o CarPlay não apaga quando a placa reconecta, os dois faróis mudam juntos, o ShiftPower reconecta e a caixa-preta sobe por qualquer internet."
 }
