@@ -1,8 +1,8 @@
 {
-  "versionCode": 99,
-  "versionName": "0.9.25",
-  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.25.apk",
-  "sha256": "55d24363bd8012756274404ceef2190e5a534f61a99ad372bc3119a964eb9758",
-  "size": 7874271,
-  "notes": "Correções do teste de 21/11: a placa das luzes volta sozinha, o CarPlay não apaga quando a placa reconecta, os dois faróis mudam juntos, o ShiftPower reconecta e a caixa-preta sobe por qualquer internet."
+  "versionCode": 101,
+  "versionName": "0.9.26",
+  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.26.apk",
+  "sha256": "5fbc3e2897875082145f68f9601a79e0cc304e88b326bffe249d94db561a5ac3",
+  "size": 7874599,
+  "notes": "Botão pra ajustar o hodômetro direto em Utilidades, e o hodômetro do app não perde mais os km quando o OBD cai por pouco tempo. Mais as correções do teste de 21/11 da 0.9.25."
 }
