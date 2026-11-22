@@ -1,8 +1,8 @@
 {
-  "versionCode": 101,
-  "versionName": "0.9.26",
-  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.26.apk",
-  "sha256": "5fbc3e2897875082145f68f9601a79e0cc304e88b326bffe249d94db561a5ac3",
-  "size": 7874599,
-  "notes": "Botão pra ajustar o hodômetro direto em Utilidades, e o hodômetro do app não perde mais os km quando o OBD cai por pouco tempo. Mais as correções do teste de 21/11 da 0.9.25."
+  "versionCode": 103,
+  "versionName": "0.9.27",
+  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.27.apk",
+  "sha256": "00e437850d0be8288f326c768730be2c7bd89df0152338da9a6c74c6a009519e",
+  "size": 7879191,
+  "notes": "Trocar a cor dos faróis não trava mais a placa (precisa do firmware 12 na placa). A tela dividida do CarPlay volta com imagem quando você sai e entra de novo. Menos alarme falso de aquecimento, de queda de avanço e de mistura."
 }
