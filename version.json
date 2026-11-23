@@ -1,8 +1,8 @@
 {
-  "versionCode": 103,
-  "versionName": "0.9.27",
-  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.27.apk",
-  "sha256": "00e437850d0be8288f326c768730be2c7bd89df0152338da9a6c74c6a009519e",
-  "size": 7879191,
-  "notes": "Trocar a cor dos faróis não trava mais a placa (precisa do firmware 12 na placa). A tela dividida do CarPlay volta com imagem quando você sai e entra de novo. Menos alarme falso de aquecimento, de queda de avanço e de mistura."
+  "versionCode": 105,
+  "versionName": "0.9.28",
+  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.28.apk",
+  "sha256": "eb3e29103166cc534f79e8a119ce07339878334a796a48fc6d29dc000cdaf9a8",
+  "size": 7881439,
+  "notes": "Botões de modo do ShiftPower: trocam o modo com o carro parado (precisa do firmware 13 ou mais novo na placa). Com o firmware 14 a placa abre o farol e a milha do mesmo jeito que o app Drive Light, mais rápido. O modo HUD espera mais antes de desligar sozinho."
 }
