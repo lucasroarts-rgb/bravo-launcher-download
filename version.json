@@ -1,8 +1,8 @@
 {
-  "versionCode": 105,
-  "versionName": "0.9.28",
-  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.28.apk",
-  "sha256": "eb3e29103166cc534f79e8a119ce07339878334a796a48fc6d29dc000cdaf9a8",
-  "size": 7881439,
-  "notes": "Botões de modo do ShiftPower: trocam o modo com o carro parado (precisa do firmware 13 ou mais novo na placa). Com o firmware 14 a placa abre o farol e a milha do mesmo jeito que o app Drive Light, mais rápido. O modo HUD espera mais antes de desligar sozinho."
+  "versionCode": 107,
+  "versionName": "0.9.29",
+  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.29.apk",
+  "sha256": "2cd6f511bbe72852503f81f99c3590c694cf99f69d06a3050ccd5debd2b964af",
+  "size": 7881727,
+  "notes": "Botões do ShiftPower valem andando depois da primeira troca confirmada com o carro parado. Saiu a tela de trava com VOLTAR e SOU PASSAGEIRO. Firmware 15: a placa se reinicia sozinha se travar."
 }
