@@ -1,8 +1,8 @@
 {
-  "versionCode": 109,
-  "versionName": "0.9.30",
-  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.30.apk",
-  "sha256": "a287c656ad59c89d485241518aef8d6ecbd9db125ec489ebf8c47e033c0d4be6",
-  "size": 9391315,
-  "notes": "Botão MODO em todos os layouts: cada toque vai para o próximo modo do ShiftPower. A placa das luzes passa sozinha para o firmware 16 depois da atualização, com o carro parado 1 minuto. Não desligue o carro durante a gravação (uns 3 minutos)."
+  "versionCode": 111,
+  "versionName": "0.9.31",
+  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.31.apk",
+  "sha256": "77334c6cacf6f1cae3b0da8d3020028f6f7924793c8f049bf6a357afd91b2a18",
+  "size": 9392379,
+  "notes": "AURA segue o modo do ShiftPower mesmo sem OBD e também no CarPlay + Bravo: azul no dia a dia, laranja no Super Sport, vermelho no Race. Se a barra não aceitar a cor, tenta de novo até 3 vezes."
 }
