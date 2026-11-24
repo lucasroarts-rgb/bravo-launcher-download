@@ -1,8 +1,8 @@
 {
-  "versionCode": 107,
-  "versionName": "0.9.29",
-  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.29.apk",
-  "sha256": "2cd6f511bbe72852503f81f99c3590c694cf99f69d06a3050ccd5debd2b964af",
-  "size": 7881727,
-  "notes": "Botões do ShiftPower valem andando depois da primeira troca confirmada com o carro parado. Saiu a tela de trava com VOLTAR e SOU PASSAGEIRO. Firmware 15: a placa se reinicia sozinha se travar."
+  "versionCode": 109,
+  "versionName": "0.9.30",
+  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.30.apk",
+  "sha256": "a287c656ad59c89d485241518aef8d6ecbd9db125ec489ebf8c47e033c0d4be6",
+  "size": 9391315,
+  "notes": "Botão MODO em todos os layouts: cada toque vai para o próximo modo do ShiftPower. A placa das luzes passa sozinha para o firmware 16 depois da atualização, com o carro parado 1 minuto. Não desligue o carro durante a gravação (uns 3 minutos)."
 }
