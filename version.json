@@ -1,8 +1,8 @@
 {
-  "versionCode": 111,
-  "versionName": "0.9.31",
-  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.31.apk",
-  "sha256": "77334c6cacf6f1cae3b0da8d3020028f6f7924793c8f049bf6a357afd91b2a18",
-  "size": 9392379,
-  "notes": "AURA segue o modo do ShiftPower mesmo sem OBD e também no CarPlay + Bravo: azul no dia a dia, laranja no Super Sport, vermelho no Race. Se a barra não aceitar a cor, tenta de novo até 3 vezes."
+  "versionCode": 113,
+  "versionName": "0.9.32",
+  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.32.apk",
+  "sha256": "59f691eeec75b6a91f074fe3e4340df91990c42dffa544273400dcde9dfdfe36",
+  "size": 9393995,
+  "notes": "HUD no cabo Y tem prioridade: o launcher escuta antes de perguntar pra ECU e fica em silêncio quando ela some com o motor ligado. Gravação da placa interrompida retoma sozinha, sem depender da velocidade. Um dado que falha uma vez fica até 3 s na tela."
 }
