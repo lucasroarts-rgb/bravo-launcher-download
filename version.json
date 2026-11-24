@@ -1,8 +1,8 @@
 {
-  "versionCode": 113,
-  "versionName": "0.9.32",
-  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.32.apk",
-  "sha256": "59f691eeec75b6a91f074fe3e4340df91990c42dffa544273400dcde9dfdfe36",
-  "size": 9393995,
-  "notes": "HUD no cabo Y tem prioridade: o launcher escuta antes de perguntar pra ECU e fica em silêncio quando ela some com o motor ligado. Gravação da placa interrompida retoma sozinha, sem depender da velocidade. Um dado que falha uma vez fica até 3 s na tela."
+  "versionCode": 115,
+  "versionName": "0.9.33",
+  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.33.apk",
+  "sha256": "24fe68a2d407451b0c457fd98f05e81a0a2e1631cd3f2bc002a3bf6314a0ebc6",
+  "size": 9400547,
+  "notes": "Layout HUD Ligado entra sozinho no modo HUD: botão MODO grande, água, bateria, luzes e música. Escuta de voz pula o silêncio. Ao desligar a chave, OBD2, placa e ShiftPower esperam a central assentar. Gravação da placa também no CarPlay + Bravo."
 }
