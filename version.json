@@ -1,8 +1,8 @@
 {
-  "versionCode": 117,
-  "versionName": "0.9.34",
-  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.34.apk",
-  "sha256": "c76ad60300fc16727beed07fc4daf869869f775344c3e83dc481bf574a0517df",
-  "size": 9403799,
-  "notes": "Giro lido mais vezes e aviso de SHIFT que acompanha a subida do giro. Arrancada pede quase só giro e velocidade e descarta tempo impossível. Telas de Luzes e ShiftPower dizem quando falta ligar a placa. Textos e avisos maiores, Race Grid sem caixas vazias, chuva só nas bordas."
+  "versionCode": 119,
+  "versionName": "0.9.35",
+  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.35.apk",
+  "sha256": "c348f35d313023bdb2724dc615893d04290a1191a44bdfab7d8abbec63ccde43",
+  "size": 9405747,
+  "notes": "HUD Ligado com velocidade, marcha e giro com barra, mais 6 leituras do motor e da viagem. Com o HUD ligado o giro é lido mais vezes, e item que o HUD não pede dá lugar a um que chega. Perguntar nas brechas do HUD continua desligado de fábrica."
 }
