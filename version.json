@@ -1,8 +1,8 @@
 {
-  "versionCode": 115,
-  "versionName": "0.9.33",
-  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.33.apk",
-  "sha256": "24fe68a2d407451b0c457fd98f05e81a0a2e1631cd3f2bc002a3bf6314a0ebc6",
-  "size": 9400547,
-  "notes": "Layout HUD Ligado entra sozinho no modo HUD: botão MODO grande, água, bateria, luzes e música. Escuta de voz pula o silêncio. Ao desligar a chave, OBD2, placa e ShiftPower esperam a central assentar. Gravação da placa também no CarPlay + Bravo."
+  "versionCode": 117,
+  "versionName": "0.9.34",
+  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.34.apk",
+  "sha256": "c76ad60300fc16727beed07fc4daf869869f775344c3e83dc481bf574a0517df",
+  "size": 9403799,
+  "notes": "Giro lido mais vezes e aviso de SHIFT que acompanha a subida do giro. Arrancada pede quase só giro e velocidade e descarta tempo impossível. Telas de Luzes e ShiftPower dizem quando falta ligar a placa. Textos e avisos maiores, Race Grid sem caixas vazias, chuva só nas bordas."
 }
