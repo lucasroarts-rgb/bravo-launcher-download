@@ -1,8 +1,8 @@
 {
-  "versionCode": 119,
-  "versionName": "0.9.35",
-  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.35.apk",
-  "sha256": "c348f35d313023bdb2724dc615893d04290a1191a44bdfab7d8abbec63ccde43",
-  "size": 9405747,
-  "notes": "HUD Ligado com velocidade, marcha e giro com barra, mais 6 leituras do motor e da viagem. Com o HUD ligado o giro é lido mais vezes, e item que o HUD não pede dá lugar a um que chega. Perguntar nas brechas do HUD continua desligado de fábrica."
+  "versionCode": 121,
+  "versionName": "0.9.36",
+  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.36.apk",
+  "sha256": "3a45b2aae33929d007deff5cd261dd311035f6aa2e19c1561d3083740417efff",
+  "size": 9408675,
+  "notes": "Título e artista do CarPlay no painel, em teste: desligado de fábrica, liga em Ajustes, Fonte da música. Com o CPLink escolhido, o painel não pede mais a permissão de notificações."
 }
