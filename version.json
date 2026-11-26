@@ -1,8 +1,8 @@
 {
-  "versionCode": 123,
-  "versionName": "0.9.37",
-  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.37.apk",
-  "sha256": "9732c4a078c8581fde23ca476c403c00ec914036b7664df63d8fc005e787f79a",
-  "size": 9416447,
-  "notes": "Botões ⏮ ⏯ ⏭ do painel controlam o CarPlay, com capa e tempo da música. Ligação do CarPlay no painel com ATENDER e DESLIGAR. Segurar ⏯ chama a Siri. Título do CarPlay e pedir nas brechas do HUD ligados de fábrica. Rota do Waze no HUD Ligado. Preset Noite saiu do Som Bravo+. Aviso de Bluetooth espera a placa."
+  "versionCode": 125,
+  "versionName": "0.9.38",
+  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.38.apk",
+  "sha256": "cc44ab3c5d48425041408756fd9d895ef56981bf87eda726dc9dec54a4bbb00f",
+  "size": 9416911,
+  "notes": "Nome da música inteiro no HUD Ligado. No layout Mídia o rótulo MARCHA não fica mais embaixo do chip e o giro aparece uma vez só. Som Bravo+ sem NÃO TESTADO repetido nos controles."
 }
