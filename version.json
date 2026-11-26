@@ -1,8 +1,8 @@
 {
-  "versionCode": 121,
-  "versionName": "0.9.36",
-  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.36.apk",
-  "sha256": "3a45b2aae33929d007deff5cd261dd311035f6aa2e19c1561d3083740417efff",
-  "size": 9408675,
-  "notes": "Título e artista do CarPlay no painel, em teste: desligado de fábrica, liga em Ajustes, Fonte da música. Com o CPLink escolhido, o painel não pede mais a permissão de notificações."
+  "versionCode": 123,
+  "versionName": "0.9.37",
+  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.37.apk",
+  "sha256": "9732c4a078c8581fde23ca476c403c00ec914036b7664df63d8fc005e787f79a",
+  "size": 9416447,
+  "notes": "Botões ⏮ ⏯ ⏭ do painel controlam o CarPlay, com capa e tempo da música. Ligação do CarPlay no painel com ATENDER e DESLIGAR. Segurar ⏯ chama a Siri. Título do CarPlay e pedir nas brechas do HUD ligados de fábrica. Rota do Waze no HUD Ligado. Preset Noite saiu do Som Bravo+. Aviso de Bluetooth espera a placa."
 }
