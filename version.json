@@ -1,8 +1,8 @@
 {
-  "versionCode": 127,
-  "versionName": "0.9.39",
-  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.39.apk",
-  "sha256": "b30c9524fb190de3f67e9b70802469e85456e4357add2ab72d311422d23b3ff4",
-  "size": 9421939,
-  "notes": "Com o HUD no cabo, a placa pede a sonda e o que o HUD não pede logo depois que a ECU responde a ele (firmware 17 da placa, grava sozinho com o carro parado). Cada som do launcher fica anotado no registro."
+  "versionCode": 129,
+  "versionName": "0.9.40",
+  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.40.apk",
+  "sha256": "62f7209679290f8e5beb614b39ecce5eb485b2c4ef1f1665bc8e8a624e1e5b37",
+  "size": 9425507,
+  "notes": "Dock com CLAUDE, MOTOR e VIAGEM no lugar de Waze, Spotify e WhatsApp. Com o HUD no cabo o launcher lembra dele, começa só escutando e não briga mais com o HUD na partida."
 }
