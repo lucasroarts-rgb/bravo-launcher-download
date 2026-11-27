@@ -1,8 +1,8 @@
 {
-  "versionCode": 125,
-  "versionName": "0.9.38",
-  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.38.apk",
-  "sha256": "cc44ab3c5d48425041408756fd9d895ef56981bf87eda726dc9dec54a4bbb00f",
-  "size": 9416911,
-  "notes": "Nome da música inteiro no HUD Ligado. No layout Mídia o rótulo MARCHA não fica mais embaixo do chip e o giro aparece uma vez só. Som Bravo+ sem NÃO TESTADO repetido nos controles."
+  "versionCode": 127,
+  "versionName": "0.9.39",
+  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.39.apk",
+  "sha256": "b30c9524fb190de3f67e9b70802469e85456e4357add2ab72d311422d23b3ff4",
+  "size": 9421939,
+  "notes": "Com o HUD no cabo, a placa pede a sonda e o que o HUD não pede logo depois que a ECU responde a ele (firmware 17 da placa, grava sozinho com o carro parado). Cada som do launcher fica anotado no registro."
 }
