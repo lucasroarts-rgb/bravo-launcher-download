@@ -1,8 +1,8 @@
 {
-  "versionCode": 129,
-  "versionName": "0.9.40",
-  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.40.apk",
-  "sha256": "62f7209679290f8e5beb614b39ecce5eb485b2c4ef1f1665bc8e8a624e1e5b37",
-  "size": 9425507,
-  "notes": "Dock com CLAUDE, MOTOR e VIAGEM no lugar de Waze, Spotify e WhatsApp. Com o HUD no cabo o launcher lembra dele, começa só escutando e não briga mais com o HUD na partida."
+  "versionCode": 131,
+  "versionName": "0.9.41",
+  "url": "https://lucasroarts-rgb.github.io/bravo-launcher-download/Bravo-Launcher-v0.9.41.apk",
+  "sha256": "5b5c88aeb4cdcedba05a950159f07f0d0c5e99e5f1435592163c0372d3ac9ac7",
+  "size": 9425955,
+  "notes": "Conserta a trava ao abrir Ajustes. Dock com CARPLAY, MOTOR, VIAGEM, SOM BRAVO, ABASTECER e ESTACIONEI, que fecha a viagem e manda pro Claude."
 }
